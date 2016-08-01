@@ -5,5 +5,5 @@ We'll have talks from all angles of perl 6 and how we got there from perl 5.
 
 After lunch we'll have a mini workshop on setting up a perl 6 development environment and getting started with your first perl6 program.
 
-Finaly we'll wrap up with the talks about the future of perl and perl 6
+Finaly we'll wrap up with the talks about the future of perl and perl 6 and how they will be integral to the futur of Open Source software.
 
