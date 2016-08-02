@@ -1,9 +1,12 @@
-Perl 6 was released for [Christmas](https://perl6advent.wordpress.com/2015/12/25/christmas-is-here/). Now its time to get the show on the road.
+Christmas 2015 brought a gift the world had anticipated for years: [Perl 6](https://perl6advent.wordpress.com/2015/12/25/christmas-is-here/).
 
-This miniconf will focus on Perl and how it is shaping the future of Open Source software.
-We'll have talks from all angles of perl 6 and how we got there from perl 5.
+Despite the name, Perl 6 isn't the next version of the Perl programming language. Perl 5 has its own [vibrant development and release cycle](http://perldoc.perl.org/perlhist.html).
 
-After lunch we'll have a mini workshop on setting up a perl 6 development environment and getting started with your first perl6 program.
+No, Perl 6 is a sister language to the tried and true Perl 5 and is an entirely new programming language. Its design is based not only on decades of observing and learning from Perl 5, but also on the trends and needs of software development for decades to come.
 
-Finaly we'll wrap up with the talks about the future of perl and perl 6 and how they will be integral to the futur of Open Source software.
+This miniconf will introduce Perl 6 to the world. It will feature:
 
+* An introduction to Perl 6
+* Examples of Perl 6 use in real world examples
+* Discussions of the future of Perl 6 and how people can help
+* A hands-on workshop where attendees will set up a Perl 6 development environment and write their first lines of Perl 6 code!
